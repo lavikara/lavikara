@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm Temitayo 👋
 
 ## 🚀 About Me
-Mid-level Web Engineer passionate about building scalable products.
+Web Engineer passionate about building scalable products.
 
 - 💻 Tech Stack: Vue, Node.js
 - 🌍 Projects:
