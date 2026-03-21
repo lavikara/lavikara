@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Web Engineer passionate about building scalable products.
 
 ### 💻 Tech Stack:
-  - React, Vue, Node.js, MongoDB
+  - React, Vue, Node.js, MongoDB, TypeScript, CSS Module, Tailwind
 
 ### 🌍 Projects:
   - https://getequity.io
@@ -28,12 +28,7 @@ Web Engineer passionate about building scalable products.
 #### 📍 Based in Nigeria
 
 ### 🔧 Skills
-- React.js
-- Vue.js
-- Nuxt.js
-- Node.js
-- REST APIs
-- JavaScript
+- JavaScript, React.js, Vue.js, Nuxt.js, Node.js, REST APIs
 
 ## 📫 Connect
 - Email: karatemitayo@gmail.com
