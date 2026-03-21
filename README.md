@@ -14,17 +14,20 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Temitayo 👋
 
-## 🚀 About Me
+### 🚀 About Me
 Web Engineer passionate about building scalable products.
 
-- 💻 Tech Stack: React, Vue, Node.js, MongoDB
-- 🌍 Projects:
+### 💻 Tech Stack:
+  - React, Vue, Node.js, MongoDB
+
+### 🌍 Projects:
   - https://getequity.io
   - https://retna.io
   - https://gomoney.global
-- 📍 Based in Nigeria
 
-## 🔧 Skills
+#### 📍 Based in Nigeria
+
+### 🔧 Skills
 - React.js
 - Vue.js
 - Nuxt.js
@@ -33,5 +36,5 @@ Web Engineer passionate about building scalable products.
 - JavaScript
 
 ## 📫 Connect
-- Email: (karatemitayo@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/temikara)
+- Email: karatemitayo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/temikara
