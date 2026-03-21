@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 Web Engineer passionate about building scalable products.
 
-- 💻 Tech Stack: Vue, Node.js
+- 💻 Tech Stack: React, Vue, Node.js, MongoDB
 - 🌍 Projects:
   - https://getequity.io
   - https://retna.io
@@ -32,5 +32,6 @@ Web Engineer passionate about building scalable products.
 - REST APIs
 - JavaScript
 
-## 📫 Connect With Me
+## 📫 Connect
+- Email: (karatemitayo@gmail.com)
 - LinkedIn: (https://www.linkedin.com/in/temikara)
