@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm Temitayo 👋
 
 ### 🚀 About Me
-Web Engineer passionate about building scalable products.
+I am a web engineer with 6+ years of proven meaningful contribution to teams at Sterling Bank, GetEquity, and Check-DC. Highly skilled in developing web applications with HTML5, CSS3, JavaScript (ES6), Node.js, Express.js, and other javascript frameworks/libraries.
 
 ### 💻 Tech Stack:
   - React, Vue, Node.js, MongoDB, TypeScript, CSS Module, Tailwind
