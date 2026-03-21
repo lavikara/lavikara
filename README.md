@@ -25,6 +25,7 @@ Web Engineer passionate about building scalable products.
 - 📍 Based in Nigeria
 
 ## 🔧 Skills
+- React.js
 - Vue.js
 - Nuxt.js
 - Node.js
@@ -32,5 +33,4 @@ Web Engineer passionate about building scalable products.
 - JavaScript
 
 ## 📫 Connect With Me
-- LinkedIn: (your link)
-- Twitter/X: (your link)
+- LinkedIn: (https://www.linkedin.com/in/temikara)
